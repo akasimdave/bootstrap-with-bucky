@@ -1,2 +1,2 @@
-# boostrap-with-bucky
+# bootstrap-with-bucky
 Learning Bootstrap
